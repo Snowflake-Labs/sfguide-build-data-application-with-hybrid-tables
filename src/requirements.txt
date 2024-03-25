@@ -1,0 +1,4 @@
+flask==3.0.0
+Flask-Caching==2.1.0
+snowflake-snowpark-python==1.7.0
+python-dotenv==1.0.0
